@@ -1,7 +1,7 @@
 %nprocshared=30
 %mem=50GB
 # wb97xd/6-31g(d,p) geom=connectivity scrf=pcm
-iop(3/107=0325000000,3/108=0325000000)
+iop(3/107=0325000000,3/108=032500000g0)
 
 Title Card Required
 
