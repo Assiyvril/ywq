@@ -23,10 +23,11 @@ I-->K[End]
 - 每次迭代前，都需要手动输入 X ？
 
 - 判断循环终止的条件 ？
-- 
+- 0x*100000 是什么
 
 ---
 
 ## 相关文档
 
-![./dinner.jpg]()
+![https://github.com/Assiyvril/ywq/blob/main/dinner.jpg]()
+
