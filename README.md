@@ -29,7 +29,10 @@ I-->K[End]
     - 既然 IOP 是输入文件的内容，按理说每次运算只会改变输出文件，不会改动输入文件，那么输入文件只需设定一次即可，为何要进行循环迭代 ？
 
 ---
+## 已解决
+- x 只需设定一次
 
+---
 ## 相关文档
 
 ![原需求描述](https://github.com/Assiyvril/ywq/raw/main/explanation_of_map.jpg "原需求描述")
