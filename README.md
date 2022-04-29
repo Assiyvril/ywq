@@ -35,10 +35,10 @@ I-->K[End]
 ---
 ## 相关文档
 
-![原需求描述](https://github.com/Assiyvril/ywq/raw/main/explanation_of_map.jpg "原需求描述")
+![原需求描述](https://github.com/Assiyvril/ywq/raw/main/img/explanation_of_map.jpg "原需求描述")
 
-![e值实例](https://github.com/Assiyvril/ywq/raw/main/value_of_e.jpg "示例")
+![e值实例](https://github.com/Assiyvril/ywq/raw/main/img/value_of_e.jpg "示例")
 
-![学委的承诺](https://github.com/Assiyvril/ywq/raw/main/dinner.jpg "请客吃饭")
+![学委的承诺](https://github.com/Assiyvril/ywq/raw/main/img/dinner.jpg "请客吃饭")
 
 
