@@ -33,6 +33,8 @@ I-->K[End]
 
 ![e值实例](https://github.com/Assiyvril/ywq/raw/main/value_of_e.jpg "示例")
 
-![学委的承诺](https://github.com/Assiyvril/ywq/raw/main/dinner.jpg "请客吃饭"){:height="50%" width="50%"}
 
+```html
+<img src="https://github.com/Assiyvril/ywq/raw/main/dinner.jpg" width = "300" height = "200" alt="图片名称" align=center />
+```
 
