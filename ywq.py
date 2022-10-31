@@ -3,6 +3,7 @@
 # coding: utf-8
 import os
 import time
+import scipy
 
 
 def read_input_file(file_name, x_value):
@@ -44,3 +45,8 @@ def find_e(file_name):
         lines = file.readlines()
 
         for line in lines:
+
+def target_func(ez, eo, ho, ef, hf):
+    fx = abs(ez-eo+ho) + abs(eo-ef+hf)
+    return fx
+

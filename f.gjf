@@ -1,7 +1,8 @@
-%nprocshared=8
+%nprocshared=3
 %mem=5GB
 # wb97xd/6-31g(d,p) scrf=pcm geom=connectivity
-iop(3/107=045600,3/108=045600)
+iop(3/107=0325000000,3/108=0325000000)
+
 Title Card Required
 
 -1 2
@@ -14,10 +15,6 @@ Title Card Required
  1 2 1.0 3 1.0 4 1.0 5 1.0
  2
  3
- 4
- 5
-
-3
  4
  5
 
